@@ -1,0 +1,61 @@
+#services{
+    text-align: center;
+  }
+#services .title h5{
+    color: #FF511A;
+    font-weight: bold;
+    text-transform: uppercase;
+}  
+#services .title h2{
+    color: #212741; 
+    font-weight: bold;
+  }
+#services .item{
+    border-radius: 5px;
+    padding: 40px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    text-align: left; 
+}
+#services .item i {
+    transition: all .5s;
+    float: left;
+    font-size: 64px;
+    color: #43ba7f;
+    margin-bottom: 30px;
+    margin-right: 30px;
+  }
+  #services .item h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  #services .item p {
+    font-size: 15px;
+    line-height: 26px;
+    color: #212741;
+  }
+  #services .item:hover i {
+    margin-top: 15px;
+  }
+  .Solutions{
+    background: url("../../images/soluation.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+  .Solutions h2{
+    color: #fff;
+    font-weight: 800;
+  }
+  .Solutions h2 span:first-of-type{
+    color: #FF511A;
+  }
+  .Solutions h2 span:last-of-type{
+    color: #43ba7f;
+  }

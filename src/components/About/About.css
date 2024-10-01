@@ -1,0 +1,56 @@
+h5{
+    font-weight: bold;
+   color: #FF511A;
+}
+h2{
+    color: #212741;
+    font-weight: 700;
+}
+.buutons button{
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 15px #0000001a;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 20px;
+    color: #212741;
+    font-weight: bold;
+}
+table thead tr td{
+    font-weight: bolder;
+    font-size: 18px;
+    color: #212741;
+}
+table tbody tr{
+    border-bottom:1px  solid #eee;
+}
+table tbody tr:last-of-type{
+    border: none;
+}
+table tbody tr td{
+    font-size: 19px;
+    padding-top: 20px;
+    padding-left: 25px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+table tbody tr td:first-of-type{
+    color: #6DCCCD;
+}
+table tbody tr td:nth-child(2), table tbody tr td:nth-child(3), table tbody tr td:nth-child(4){
+    color: #777;
+}
+#about h3{
+    color: #212741;
+    font-weight: bold;
+   font-size: 20px;
+}
+#about .more p{
+    font-size: 17px;
+}
+#about button{
+    background-color: #FF511A;
+    border: 1px solid #FF511A;
+}
